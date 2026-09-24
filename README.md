@@ -17,6 +17,11 @@ This project applies statistical modeling and exploratory data analysis (EDA) to
 * Successfully segmented the customer base to allow for highly targeted, ROI-driven marketing interventions.
 * Validated campaign performance through rigorous statistical A/B test evaluation.
 
+## 🖼️ Dashboard Preview
+<img width="664" height="460" alt="Screenshot 2026-09-24 031335" src="https://github.com/user-attachments/assets/0ef7a4c8-739e-431b-bde4-8128f6a07a6f" />
+<img width="868" height="475" alt="Screenshot 2026-09-24 031325" src="https://github.com/user-attachments/assets/0a3d2a07-6c9f-4aad-a287-879e20899241" />
+
+
 ## Original Dataset Link
 
 https://drive.google.com/file/d/1pqtPGGTChoQuhesWBVcHJzaRedOK3Ufb/view?usp=drive_link
